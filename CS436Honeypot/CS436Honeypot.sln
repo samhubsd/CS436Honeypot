@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CS436Honeypot", "CS436Honeypot\CS436Honeypot.pyproj", "{8ED9AE31-07E5-4CA3-A45D-847272003A1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED9AE31-07E5-4CA3-A45D-847272003A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED9AE31-07E5-4CA3-A45D-847272003A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C997FFDB-A949-478C-8094-B81085B763A9}
+	EndGlobalSection
+EndGlobal
